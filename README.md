@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Andrew Ramo 👋
 
-<!--
-**andrew-ramo/andrew-ramo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern, responsive, and user-friendly web applications using React and TypeScript.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently improving my React and TypeScript skills through real-world projects.
+- 💡 Passionate about writing clean, maintainable, and scalable code.
+- 🎯 Goal: Land my first Frontend Developer role and continuously grow as a software engineer.
+
+## 🛠️ Tech Stack
+
+- React
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Git & GitHub
+- Vite
+
+## 📂 Featured Projects
+
+### 📚 Book Tracker
+A React + TypeScript application for managing and tracking your reading progress.
+
+> Coming soon...
+
+---
+
+### 💬 Social App
+A React application that simulates a modern social media experience.
+
+> Coming soon...
+
+## 📖 Currently Learning
+
+- Advanced React Patterns
+- Testing (Vitest & React Testing Library)
+- Performance Optimization
+- Clean Code
+- Software Architecture
+
+## 📫 Contact
+
+- Email: **andrew.ramo.dev@gmail.com**
+
+---
+
+Thanks for visiting my profile! 🚀
