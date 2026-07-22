@@ -1,49 +1,29 @@
-# Hi, I'm Andrew Ramo 👋
+# Andrew Ramo
 
-Frontend Developer focused on building modern, responsive, and user-friendly web applications using React and TypeScript.
+Front-End Developer focused on building modern and responsive web applications with React and Next.js.
 
-## 🚀 About Me
+## About Me
 
-- 🌱 Currently improving my React and TypeScript skills through real-world projects.
-- 💡 Passionate about writing clean, maintainable, and scalable code.
-- 🎯 Goal: Land my first Frontend Developer role and continuously grow as a software engineer.
+I'm a front-end developer who enjoys building real-world projects and improving my problem-solving skills through continuous practice.
 
-## 🛠️ Tech Stack
+## Current Focus
 
-- React
-- TypeScript
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Git & GitHub
-- Vite
+- Building NileShop
+- Learning React & Next.js
+- Writing clean and maintainable code
 
-## 📂 Featured Projects
+## Tech Stack
 
-### 📚 Book Tracker
-A React + TypeScript application for managing and tracking your reading progress.
+HTML • CSS • JavaScript • TypeScript
 
-> Coming soon...
+React • Next.js
 
----
+Git • GitHub
 
-### 💬 Social App
-A React application that simulates a modern social media experience.
+## Featured Project
 
-> Coming soon...
+### NileShop
 
-## 📖 Currently Learning
+An e-commerce application built with Next.js.
 
-- Advanced React Patterns
-- Testing (Vitest & React Testing Library)
-- Performance Optimization
-- Clean Code
-- Software Architecture
-
-## 📫 Contact
-
-- Email: **andrew.ramo.dev@gmail.com**
-
----
-
-Thanks for visiting my profile! 🚀
+> More projects are coming soon.
